@@ -94,7 +94,10 @@ section{
     font-size: 42px;
     color: white;
 }
-#searh{
+#search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 40vw;
     height: 10vh;
 }
